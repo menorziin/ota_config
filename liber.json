@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1667149530",
-      "filename": "Arrow-v13.0-liber-COMMUNITY-20221030-GAPPS.zip",
-      "id": "208bac03e58823591bae6829a2ed21414fe61e16b70d201c19131972c6ebb9c9",
+      "datetime": "1667320698",
+      "filename": "Arrow-v13.0-liber-COMMUNITY-20221101-GAPPS.zip",
+      "id": "185a398a52c7a7e636584702464c13dd6d4ca204a128b3a137ad73896fe76107",
       "romtype": "COMMUNITY",
-      "size": "1200043293",
-      "url": "https://github.com/menorziin/ota_config/releases/download/221030/Arrow-v13.0-liber-COMMUNITY-20221030-GAPPS.zip",
+      "size": "1200322302",
+      "url": "https://sourceforge.net/projects/roms-liber/files/Arrow-v13.0-liber-COMMUNITY-20221101-GAPPS.zip/download/releases/download/COMMUNITY/Arrow-v13.0-liber-COMMUNITY-20221101-GAPPS.zip",
       "version": "v13.0"
     }
   ]
