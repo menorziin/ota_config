@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20221222-liber-v9.0.zip",
+			"download": "https://github.com/menorziin/ota_config/releases/download/13/crDroidAndroid-13.0-20221222-liber-v9.0.zip",
+			"timestamp": 1671745223,
+			"md5": "1204ab7ebc0f48f0ab1ab6011728eec6",
+			"sha256": "4bcbc2a318257155cfabd3500bb5e255f592978d8a5ee5ca49223456c9e3358e",
+			"size": 1317455043,
+			"version": "9.0",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
